@@ -52,5 +52,3 @@ Muestra el estado de respuestas para: `/`, `/nope.txt`, `/?a=1&b=dos`, y `POST /
 - Previene traversal de rutas fuera de `webRoot`.
 - Resuelve tipos MIME comunes.
 - Timeout de lectura/escritura para evitar conexiones colgadas.
-
-
