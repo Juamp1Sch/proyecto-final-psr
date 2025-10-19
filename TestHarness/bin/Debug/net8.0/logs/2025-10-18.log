@@ -1,0 +1,37 @@
+[2025-10-18 16:47:15.624] 127.0.0.1 GET /
+[2025-10-18 16:47:15.643] 127.0.0.1 GET /nope.txt
+[2025-10-18 16:47:15.653] 127.0.0.1 GET / ?a=1&b=dos
+[2025-10-18 16:47:15.656] 127.0.0.1 POST / BODY=x=1&y=2
+[2025-10-18 16:47:51.384] 127.0.0.1 GET /
+[2025-10-18 16:47:51.403] 127.0.0.1 GET /nope.txt
+[2025-10-18 16:47:51.412] 127.0.0.1 GET / ?a=1&b=dos
+[2025-10-18 16:47:51.416] 127.0.0.1 POST / BODY=x=1&y=2
+[2025-10-18 16:48:29.278] 127.0.0.1 GET /
+[2025-10-18 16:48:29.295] 127.0.0.1 GET /nope.txt
+[2025-10-18 16:48:29.302] 127.0.0.1 GET / ?a=1&b=dos
+[2025-10-18 16:48:29.305] 127.0.0.1 POST / BODY=x=1&y=2
+[2025-10-18 16:49:03.490] 127.0.0.1 GET /
+[2025-10-18 16:49:03.506] 127.0.0.1 GET /nope.txt
+[2025-10-18 16:49:03.513] 127.0.0.1 GET / ?a=1&b=dos
+[2025-10-18 16:49:03.516] 127.0.0.1 POST / BODY=x=1&y=2
+[2025-10-18 16:49:56.184] 127.0.0.1 GET /
+[2025-10-18 16:49:56.189] Map: path='/' -> fullPath='C:\Users\Juan Pablo\Desktop\DS\6to Cuatri 3año DS\Programacion Sobre Redes\Trabajo-Final-PSR\TestHarness\bin\Debug\net8.0\archivos-a-servir\index.html'
+[2025-10-18 16:49:56.189] File not found: 'C:\Users\Juan Pablo\Desktop\DS\6to Cuatri 3año DS\Programacion Sobre Redes\Trabajo-Final-PSR\TestHarness\bin\Debug\net8.0\archivos-a-servir\index.html'
+[2025-10-18 16:49:56.200] 127.0.0.1 GET /nope.txt
+[2025-10-18 16:49:56.200] Map: path='/nope.txt' -> fullPath='C:\Users\Juan Pablo\Desktop\DS\6to Cuatri 3año DS\Programacion Sobre Redes\Trabajo-Final-PSR\TestHarness\bin\Debug\net8.0\archivos-a-servir\nope.txt'
+[2025-10-18 16:49:56.200] File not found: 'C:\Users\Juan Pablo\Desktop\DS\6to Cuatri 3año DS\Programacion Sobre Redes\Trabajo-Final-PSR\TestHarness\bin\Debug\net8.0\archivos-a-servir\nope.txt'
+[2025-10-18 16:49:56.207] 127.0.0.1 GET / ?a=1&b=dos
+[2025-10-18 16:49:56.207] Map: path='/' -> fullPath='C:\Users\Juan Pablo\Desktop\DS\6to Cuatri 3año DS\Programacion Sobre Redes\Trabajo-Final-PSR\TestHarness\bin\Debug\net8.0\archivos-a-servir\index.html'
+[2025-10-18 16:49:56.207] File not found: 'C:\Users\Juan Pablo\Desktop\DS\6to Cuatri 3año DS\Programacion Sobre Redes\Trabajo-Final-PSR\TestHarness\bin\Debug\net8.0\archivos-a-servir\index.html'
+[2025-10-18 16:49:56.210] 127.0.0.1 POST / BODY=x=1&y=2
+[2025-10-18 16:49:56.210] Map: path='/' -> fullPath='C:\Users\Juan Pablo\Desktop\DS\6to Cuatri 3año DS\Programacion Sobre Redes\Trabajo-Final-PSR\TestHarness\bin\Debug\net8.0\archivos-a-servir\index.html'
+[2025-10-18 16:49:56.210] File not found: 'C:\Users\Juan Pablo\Desktop\DS\6to Cuatri 3año DS\Programacion Sobre Redes\Trabajo-Final-PSR\TestHarness\bin\Debug\net8.0\archivos-a-servir\index.html'
+[2025-10-18 16:52:05.468] 127.0.0.1 GET /
+[2025-10-18 16:52:05.474] Map: path='/' -> fullPath='C:\Users\Juan Pablo\Desktop\DS\6to Cuatri 3año DS\Programacion Sobre Redes\Trabajo-Final-PSR\archivos-a-servir\index.html'
+[2025-10-18 16:52:05.490] 127.0.0.1 GET /nope.txt
+[2025-10-18 16:52:05.490] Map: path='/nope.txt' -> fullPath='C:\Users\Juan Pablo\Desktop\DS\6to Cuatri 3año DS\Programacion Sobre Redes\Trabajo-Final-PSR\archivos-a-servir\nope.txt'
+[2025-10-18 16:52:05.491] File not found: 'C:\Users\Juan Pablo\Desktop\DS\6to Cuatri 3año DS\Programacion Sobre Redes\Trabajo-Final-PSR\archivos-a-servir\nope.txt'
+[2025-10-18 16:52:05.499] 127.0.0.1 GET / ?a=1&b=dos
+[2025-10-18 16:52:05.499] Map: path='/' -> fullPath='C:\Users\Juan Pablo\Desktop\DS\6to Cuatri 3año DS\Programacion Sobre Redes\Trabajo-Final-PSR\archivos-a-servir\index.html'
+[2025-10-18 16:52:05.502] 127.0.0.1 POST / BODY=x=1&y=2
+[2025-10-18 16:52:05.502] Map: path='/' -> fullPath='C:\Users\Juan Pablo\Desktop\DS\6to Cuatri 3año DS\Programacion Sobre Redes\Trabajo-Final-PSR\archivos-a-servir\index.html'

@@ -1,0 +1,6 @@
+{
+  "port": 9090,
+  "webRoot": "C:\\Users\\Juan Pablo\\Desktop\\DS\\6to Cuatri 3año DS\\Programacion Sobre Redes\\Trabajo-Final-PSR\\archivos-a-servir",
+  "logDirectory": "logs",
+  "enableGzip": true
+}

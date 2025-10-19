@@ -1,0 +1,70 @@
+[2025-10-18 17:02:34.459] 127.0.0.1 GET /
+[2025-10-18 17:02:34.466] Map: path='/' -> fullPath='C:\Users\Juan Pablo\Desktop\DS\6to Cuatri 3año DS\Programacion Sobre Redes\Trabajo-Final-PSR\archivos-a-servir\index.html'
+[2025-10-18 17:02:34.522] 127.0.0.1 GET /styles.css
+[2025-10-18 17:02:34.522] Map: path='/styles.css' -> fullPath='C:\Users\Juan Pablo\Desktop\DS\6to Cuatri 3año DS\Programacion Sobre Redes\Trabajo-Final-PSR\archivos-a-servir\styles.css'
+[2025-10-18 17:02:34.536] 127.0.0.1 GET /imagen.png
+[2025-10-18 17:02:34.536] 127.0.0.1 GET /script.js
+[2025-10-18 17:02:34.536] Map: path='/imagen.png' -> fullPath='C:\Users\Juan Pablo\Desktop\DS\6to Cuatri 3año DS\Programacion Sobre Redes\Trabajo-Final-PSR\archivos-a-servir\imagen.png'
+[2025-10-18 17:02:34.536] Map: path='/script.js' -> fullPath='C:\Users\Juan Pablo\Desktop\DS\6to Cuatri 3año DS\Programacion Sobre Redes\Trabajo-Final-PSR\archivos-a-servir\script.js'
+[2025-10-18 17:02:34.634] 127.0.0.1 GET /favicon.ico
+[2025-10-18 17:02:34.634] Map: path='/favicon.ico' -> fullPath='C:\Users\Juan Pablo\Desktop\DS\6to Cuatri 3año DS\Programacion Sobre Redes\Trabajo-Final-PSR\archivos-a-servir\favicon.ico'
+[2025-10-18 17:02:34.634] File not found: 'C:\Users\Juan Pablo\Desktop\DS\6to Cuatri 3año DS\Programacion Sobre Redes\Trabajo-Final-PSR\archivos-a-servir\favicon.ico'
+[2025-10-18 17:02:40.534] 127.0.0.1 GET /no-existe.html
+[2025-10-18 17:02:40.534] Map: path='/no-existe.html' -> fullPath='C:\Users\Juan Pablo\Desktop\DS\6to Cuatri 3año DS\Programacion Sobre Redes\Trabajo-Final-PSR\archivos-a-servir\no-existe.html'
+[2025-10-18 17:02:40.535] File not found: 'C:\Users\Juan Pablo\Desktop\DS\6to Cuatri 3año DS\Programacion Sobre Redes\Trabajo-Final-PSR\archivos-a-servir\no-existe.html'
+[2025-10-18 17:02:43.197] 127.0.0.1 GET / ?a=1&b=dos
+[2025-10-18 17:02:43.197] Map: path='/' -> fullPath='C:\Users\Juan Pablo\Desktop\DS\6to Cuatri 3año DS\Programacion Sobre Redes\Trabajo-Final-PSR\archivos-a-servir\index.html'
+[2025-10-18 17:02:43.242] 127.0.0.1 GET /styles.css
+[2025-10-18 17:02:43.242] Map: path='/styles.css' -> fullPath='C:\Users\Juan Pablo\Desktop\DS\6to Cuatri 3año DS\Programacion Sobre Redes\Trabajo-Final-PSR\archivos-a-servir\styles.css'
+[2025-10-18 17:02:43.260] 127.0.0.1 GET /imagen.png
+[2025-10-18 17:02:43.260] Map: path='/imagen.png' -> fullPath='C:\Users\Juan Pablo\Desktop\DS\6to Cuatri 3año DS\Programacion Sobre Redes\Trabajo-Final-PSR\archivos-a-servir\imagen.png'
+[2025-10-18 17:02:43.261] 127.0.0.1 GET /script.js
+[2025-10-18 17:02:43.261] Map: path='/script.js' -> fullPath='C:\Users\Juan Pablo\Desktop\DS\6to Cuatri 3año DS\Programacion Sobre Redes\Trabajo-Final-PSR\archivos-a-servir\script.js'
+[2025-10-18 17:02:43.953] 127.0.0.1 GET / ?a=1&b=dos
+[2025-10-18 17:02:43.953] Map: path='/' -> fullPath='C:\Users\Juan Pablo\Desktop\DS\6to Cuatri 3año DS\Programacion Sobre Redes\Trabajo-Final-PSR\archivos-a-servir\index.html'
+[2025-10-18 17:02:43.989] 127.0.0.1 GET /styles.css
+[2025-10-18 17:02:43.989] Map: path='/styles.css' -> fullPath='C:\Users\Juan Pablo\Desktop\DS\6to Cuatri 3año DS\Programacion Sobre Redes\Trabajo-Final-PSR\archivos-a-servir\styles.css'
+[2025-10-18 17:02:43.993] 127.0.0.1 GET /imagen.png
+[2025-10-18 17:02:43.993] Map: path='/imagen.png' -> fullPath='C:\Users\Juan Pablo\Desktop\DS\6to Cuatri 3año DS\Programacion Sobre Redes\Trabajo-Final-PSR\archivos-a-servir\imagen.png'
+[2025-10-18 17:02:43.993] 127.0.0.1 GET /script.js
+[2025-10-18 17:02:43.993] Map: path='/script.js' -> fullPath='C:\Users\Juan Pablo\Desktop\DS\6to Cuatri 3año DS\Programacion Sobre Redes\Trabajo-Final-PSR\archivos-a-servir\script.js'
+[2025-10-18 17:02:44.633] 127.0.0.1 GET / ?a=1&b=dos
+[2025-10-18 17:02:44.633] Map: path='/' -> fullPath='C:\Users\Juan Pablo\Desktop\DS\6to Cuatri 3año DS\Programacion Sobre Redes\Trabajo-Final-PSR\archivos-a-servir\index.html'
+[2025-10-18 17:02:44.671] 127.0.0.1 GET /styles.css
+[2025-10-18 17:02:44.671] Map: path='/styles.css' -> fullPath='C:\Users\Juan Pablo\Desktop\DS\6to Cuatri 3año DS\Programacion Sobre Redes\Trabajo-Final-PSR\archivos-a-servir\styles.css'
+[2025-10-18 17:02:44.672] 127.0.0.1 GET /imagen.png
+[2025-10-18 17:02:44.672] Map: path='/imagen.png' -> fullPath='C:\Users\Juan Pablo\Desktop\DS\6to Cuatri 3año DS\Programacion Sobre Redes\Trabajo-Final-PSR\archivos-a-servir\imagen.png'
+[2025-10-18 17:02:44.672] 127.0.0.1 GET /script.js
+[2025-10-18 17:02:44.672] Map: path='/script.js' -> fullPath='C:\Users\Juan Pablo\Desktop\DS\6to Cuatri 3año DS\Programacion Sobre Redes\Trabajo-Final-PSR\archivos-a-servir\script.js'
+[2025-10-18 17:02:45.140] 127.0.0.1 GET / ?a=1&b=dos
+[2025-10-18 17:02:45.140] Map: path='/' -> fullPath='C:\Users\Juan Pablo\Desktop\DS\6to Cuatri 3año DS\Programacion Sobre Redes\Trabajo-Final-PSR\archivos-a-servir\index.html'
+[2025-10-18 17:02:45.176] 127.0.0.1 GET /styles.css
+[2025-10-18 17:02:45.176] Map: path='/styles.css' -> fullPath='C:\Users\Juan Pablo\Desktop\DS\6to Cuatri 3año DS\Programacion Sobre Redes\Trabajo-Final-PSR\archivos-a-servir\styles.css'
+[2025-10-18 17:02:45.177] 127.0.0.1 GET /imagen.png
+[2025-10-18 17:02:45.177] Map: path='/imagen.png' -> fullPath='C:\Users\Juan Pablo\Desktop\DS\6to Cuatri 3año DS\Programacion Sobre Redes\Trabajo-Final-PSR\archivos-a-servir\imagen.png'
+[2025-10-18 17:02:45.181] 127.0.0.1 GET /script.js
+[2025-10-18 17:02:45.181] Map: path='/script.js' -> fullPath='C:\Users\Juan Pablo\Desktop\DS\6to Cuatri 3año DS\Programacion Sobre Redes\Trabajo-Final-PSR\archivos-a-servir\script.js'
+[2025-10-18 17:02:53.691] 127.0.0.1 POST / BODY=nombre=Juan+Pablo
+[2025-10-18 17:02:53.691] Map: path='/' -> fullPath='C:\Users\Juan Pablo\Desktop\DS\6to Cuatri 3año DS\Programacion Sobre Redes\Trabajo-Final-PSR\archivos-a-servir\index.html'
+[2025-10-18 17:02:53.749] 127.0.0.1 GET /styles.css
+[2025-10-18 17:02:53.749] Map: path='/styles.css' -> fullPath='C:\Users\Juan Pablo\Desktop\DS\6to Cuatri 3año DS\Programacion Sobre Redes\Trabajo-Final-PSR\archivos-a-servir\styles.css'
+[2025-10-18 17:02:53.750] 127.0.0.1 GET /imagen.png
+[2025-10-18 17:02:53.750] Map: path='/imagen.png' -> fullPath='C:\Users\Juan Pablo\Desktop\DS\6to Cuatri 3año DS\Programacion Sobre Redes\Trabajo-Final-PSR\archivos-a-servir\imagen.png'
+[2025-10-18 17:02:53.757] 127.0.0.1 GET /script.js
+[2025-10-18 17:02:53.757] Map: path='/script.js' -> fullPath='C:\Users\Juan Pablo\Desktop\DS\6to Cuatri 3año DS\Programacion Sobre Redes\Trabajo-Final-PSR\archivos-a-servir\script.js'
+[2025-10-18 17:02:57.257] 127.0.0.1 GET /styles.css
+[2025-10-18 17:02:57.257] Map: path='/styles.css' -> fullPath='C:\Users\Juan Pablo\Desktop\DS\6to Cuatri 3año DS\Programacion Sobre Redes\Trabajo-Final-PSR\archivos-a-servir\styles.css'
+[2025-10-18 17:02:57.316] 127.0.0.1 GET /.well-known/appspecific/com.chrome.devtools.json
+[2025-10-18 17:02:57.317] Map: path='/.well-known/appspecific/com.chrome.devtools.json' -> fullPath='C:\Users\Juan Pablo\Desktop\DS\6to Cuatri 3año DS\Programacion Sobre Redes\Trabajo-Final-PSR\archivos-a-servir\.well-known\appspecific\com.chrome.devtools.json'
+[2025-10-18 17:02:57.317] File not found: 'C:\Users\Juan Pablo\Desktop\DS\6to Cuatri 3año DS\Programacion Sobre Redes\Trabajo-Final-PSR\archivos-a-servir\.well-known\appspecific\com.chrome.devtools.json'
+[2025-10-18 17:03:03.164] 127.0.0.1 POST / BODY=nombre=Juan+Pablo
+[2025-10-18 17:03:03.164] Map: path='/' -> fullPath='C:\Users\Juan Pablo\Desktop\DS\6to Cuatri 3año DS\Programacion Sobre Redes\Trabajo-Final-PSR\archivos-a-servir\index.html'
+[2025-10-18 17:03:03.447] 127.0.0.1 GET /.well-known/appspecific/com.chrome.devtools.json
+[2025-10-18 17:03:03.447] Map: path='/.well-known/appspecific/com.chrome.devtools.json' -> fullPath='C:\Users\Juan Pablo\Desktop\DS\6to Cuatri 3año DS\Programacion Sobre Redes\Trabajo-Final-PSR\archivos-a-servir\.well-known\appspecific\com.chrome.devtools.json'
+[2025-10-18 17:03:03.447] 127.0.0.1 GET /styles.css
+[2025-10-18 17:03:03.447] Map: path='/styles.css' -> fullPath='C:\Users\Juan Pablo\Desktop\DS\6to Cuatri 3año DS\Programacion Sobre Redes\Trabajo-Final-PSR\archivos-a-servir\styles.css'
+[2025-10-18 17:03:03.448] File not found: 'C:\Users\Juan Pablo\Desktop\DS\6to Cuatri 3año DS\Programacion Sobre Redes\Trabajo-Final-PSR\archivos-a-servir\.well-known\appspecific\com.chrome.devtools.json'
+[2025-10-18 17:03:03.453] 127.0.0.1 GET /imagen.png
+[2025-10-18 17:03:03.453] Map: path='/imagen.png' -> fullPath='C:\Users\Juan Pablo\Desktop\DS\6to Cuatri 3año DS\Programacion Sobre Redes\Trabajo-Final-PSR\archivos-a-servir\imagen.png'
+[2025-10-18 17:03:03.453] 127.0.0.1 GET /script.js
+[2025-10-18 17:03:03.453] Map: path='/script.js' -> fullPath='C:\Users\Juan Pablo\Desktop\DS\6to Cuatri 3año DS\Programacion Sobre Redes\Trabajo-Final-PSR\archivos-a-servir\script.js'

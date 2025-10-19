@@ -1,0 +1,6 @@
+{
+  "port": 8080,
+  "webRoot": "archivos-a-servir",
+  "logDirectory": "logs",
+  "enableGzip": true
+}

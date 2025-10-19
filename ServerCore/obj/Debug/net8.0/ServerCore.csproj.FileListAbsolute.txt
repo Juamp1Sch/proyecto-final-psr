@@ -1,0 +1,11 @@
+C:\Users\Juan Pablo\Desktop\DS\6to Cuatri 3año DS\Programacion Sobre Redes\Trabajo-Final-PSR\ServerCore\bin\Debug\net8.0\ServerCore.deps.json
+C:\Users\Juan Pablo\Desktop\DS\6to Cuatri 3año DS\Programacion Sobre Redes\Trabajo-Final-PSR\ServerCore\bin\Debug\net8.0\ServerCore.dll
+C:\Users\Juan Pablo\Desktop\DS\6to Cuatri 3año DS\Programacion Sobre Redes\Trabajo-Final-PSR\ServerCore\bin\Debug\net8.0\ServerCore.pdb
+C:\Users\Juan Pablo\Desktop\DS\6to Cuatri 3año DS\Programacion Sobre Redes\Trabajo-Final-PSR\ServerCore\obj\Debug\net8.0\ServerCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan Pablo\Desktop\DS\6to Cuatri 3año DS\Programacion Sobre Redes\Trabajo-Final-PSR\ServerCore\obj\Debug\net8.0\ServerCore.AssemblyInfoInputs.cache
+C:\Users\Juan Pablo\Desktop\DS\6to Cuatri 3año DS\Programacion Sobre Redes\Trabajo-Final-PSR\ServerCore\obj\Debug\net8.0\ServerCore.AssemblyInfo.cs
+C:\Users\Juan Pablo\Desktop\DS\6to Cuatri 3año DS\Programacion Sobre Redes\Trabajo-Final-PSR\ServerCore\obj\Debug\net8.0\ServerCore.csproj.CoreCompileInputs.cache
+C:\Users\Juan Pablo\Desktop\DS\6to Cuatri 3año DS\Programacion Sobre Redes\Trabajo-Final-PSR\ServerCore\obj\Debug\net8.0\ServerCore.dll
+C:\Users\Juan Pablo\Desktop\DS\6to Cuatri 3año DS\Programacion Sobre Redes\Trabajo-Final-PSR\ServerCore\obj\Debug\net8.0\refint\ServerCore.dll
+C:\Users\Juan Pablo\Desktop\DS\6to Cuatri 3año DS\Programacion Sobre Redes\Trabajo-Final-PSR\ServerCore\obj\Debug\net8.0\ServerCore.pdb
+C:\Users\Juan Pablo\Desktop\DS\6to Cuatri 3año DS\Programacion Sobre Redes\Trabajo-Final-PSR\ServerCore\obj\Debug\net8.0\ref\ServerCore.dll
