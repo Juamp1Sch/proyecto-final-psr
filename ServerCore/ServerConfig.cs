@@ -33,7 +33,7 @@ public sealed class ServerConfig
 
         string configDir = Path.GetDirectoryName(Path.GetFullPath(configPath))!;
 
-        // Resolve paths relative to the config file directory when not rooted
+        
         string webRoot = model.WebRoot;
         if (!Path.IsPathRooted(webRoot))
         {

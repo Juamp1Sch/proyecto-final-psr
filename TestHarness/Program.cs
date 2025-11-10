@@ -2,7 +2,7 @@
 using System.Text;
 using ServerCore;
 
-// Simple integration test harness that starts the server and issues a few requests
+
 
 string baseDir = AppContext.BaseDirectory;
 string repoRoot = Path.GetFullPath(Path.Combine(baseDir, "..", "..", "..", ".."));
@@ -19,7 +19,7 @@ var config = ServerConfig.LoadFromFile(configPath);
 using var server = new SimpleHttpServer(config);
 server.Start();
 
-await Task.Delay(300); // give it a moment
+await Task.Delay(300); 
 
 static async Task<string> RawHttp(string host, int port, string request)
 {
@@ -43,22 +43,22 @@ static async Task<string> RawHttp(string host, int port, string request)
 string host = "127.0.0.1";
 int port = config.Port;
 
-// GET /
+// GET 
 string getRoot = $"GET / HTTP/1.1\r\nHost: {host}\r\nAccept-Encoding: gzip\r\n\r\n";
 string resp1 = await RawHttp(host, port, getRoot);
 Console.WriteLine($"GET / -> {resp1.Split('\n')[0].Trim()}");
 
-// GET /nope.txt (expect 404)
+// GET 404
 string get404 = $"GET /nope.txt HTTP/1.1\r\nHost: {host}\r\n\r\n";
 string resp2 = await RawHttp(host, port, get404);
 Console.WriteLine($"GET /nope.txt -> {resp2.Split('\n')[0].Trim()}");
 
-// GET with query params (logged)
+// GET con query params 
 string getQuery = $"GET /?a=1&b=dos HTTP/1.1\r\nHost: {host}\r\n\r\n";
 string resp3 = await RawHttp(host, port, getQuery);
 Console.WriteLine($"GET /?a=1&b=dos -> {resp3.Split('\n')[0].Trim()}");
 
-// POST logs body
+// POST logs 
 string body = "x=1&y=2";
 string post = $"POST / HTTP/1.1\r\nHost: {host}\r\nContent-Type: application/x-www-form-urlencoded\r\nContent-Length: {Encoding.ASCII.GetByteCount(body)}\r\n\r\n{body}";
 string resp4 = await RawHttp(host, port, post);

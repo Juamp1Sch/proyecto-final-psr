@@ -23,7 +23,7 @@ public static class HttpRequestParser
 {
     public static HttpRequest Parse(ReadOnlySpan<byte> rawRequest, IPEndPoint remoteEndPoint)
     {
-        // Find header/body separator: CRLF CRLF
+       
         int sep = IndexOf(rawRequest, "\r\n\r\n"u8);
         if (sep < 0)
         {
@@ -33,14 +33,14 @@ public static class HttpRequestParser
         ReadOnlySpan<byte> headerBytes = rawRequest[..sep];
         ReadOnlySpan<byte> bodyBytes = rawRequest[(sep + 4)..];
 
-        // Split headers by CRLF
+        
         var headerLines = Encoding.ASCII.GetString(headerBytes).Split("\r\n", StringSplitOptions.None);
         if (headerLines.Length == 0)
         {
             throw new InvalidOperationException("Invalid HTTP request: empty header lines");
         }
 
-        // Request line: METHOD SP PATH SP HTTP/VERSION
+      
         var parts = headerLines[0].Split(' ');
         if (parts.Length < 3)
         {
@@ -50,7 +50,7 @@ public static class HttpRequestParser
         string pathWithQuery = parts[1].Trim();
         string httpVersion = parts[2].Trim();
 
-        // Headers
+        
         var headers = new Dictionary<string, string>(StringComparer.OrdinalIgnoreCase);
         for (int i = 1; i < headerLines.Length; i++)
         {
@@ -63,7 +63,7 @@ public static class HttpRequestParser
             headers[name] = value;
         }
 
-        // Query params
+      
         string path = pathWithQuery;
         var queryParams = new Dictionary<string, string>(StringComparer.OrdinalIgnoreCase);
         int qIndex = pathWithQuery.IndexOf('?');

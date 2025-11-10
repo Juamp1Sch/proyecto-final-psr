@@ -66,7 +66,7 @@ public sealed class SimpleHttpServer : IDisposable
             using var ms = new MemoryStream();
             var buffer = new byte[8192];
 
-            // Read until no more available or header says full body read
+            
             int bytesRead;
             int headerEndIndex = -1;
             int contentLength = 0;
@@ -81,7 +81,7 @@ public sealed class SimpleHttpServer : IDisposable
                     headerEndIndex = IndexOf(data, "\r\n\r\n"u8.ToArray());
                     if (headerEndIndex >= 0)
                     {
-                        // parse headers to get content-length
+                        
                         var headerPart = Encoding.ASCII.GetString(data, 0, headerEndIndex);
                         foreach (var line in headerPart.Split("\r\n"))
                         {
@@ -166,13 +166,13 @@ public sealed class SimpleHttpServer : IDisposable
             };
         }
 
-        // Map path -> filesystem, default index.html
+        
         string rel = req.Path.TrimStart('/');
         if (string.IsNullOrEmpty(rel)) rel = "index.html";
         string fullPath = Path.GetFullPath(Path.Combine(config.WebRoot, rel));
         logger.Log($"Map: path='{req.Path}' -> fullPath='{fullPath}'");
 
-        // Prevent path traversal
+        
         string rootFull = Path.GetFullPath(config.WebRoot);
         if (!fullPath.StartsWith(rootFull, StringComparison.OrdinalIgnoreCase))
         {
@@ -182,7 +182,7 @@ public sealed class SimpleHttpServer : IDisposable
 
         if (!File.Exists(fullPath))
         {
-            // try directory default
+            
             if (Directory.Exists(fullPath))
             {
                 string idx = Path.Combine(fullPath, "index.html");
