@@ -1,0 +1,9 @@
+[2025-10-21 19:01:20.385] 127.0.0.1 GET /
+[2025-10-21 19:01:20.390] Map: path='/' -> fullPath='C:\Users\Juan Pablo\Desktop\DS\6to Cuatri 3año DS\Programacion Sobre Redes\Trabajo-Final-PSR\archivos-a-servir\index.html'
+[2025-10-21 19:01:20.410] 127.0.0.1 GET /nope.txt
+[2025-10-21 19:01:20.410] Map: path='/nope.txt' -> fullPath='C:\Users\Juan Pablo\Desktop\DS\6to Cuatri 3año DS\Programacion Sobre Redes\Trabajo-Final-PSR\archivos-a-servir\nope.txt'
+[2025-10-21 19:01:20.411] File not found: 'C:\Users\Juan Pablo\Desktop\DS\6to Cuatri 3año DS\Programacion Sobre Redes\Trabajo-Final-PSR\archivos-a-servir\nope.txt'
+[2025-10-21 19:01:20.422] 127.0.0.1 GET / ?a=1&b=dos
+[2025-10-21 19:01:20.422] Map: path='/' -> fullPath='C:\Users\Juan Pablo\Desktop\DS\6to Cuatri 3año DS\Programacion Sobre Redes\Trabajo-Final-PSR\archivos-a-servir\index.html'
+[2025-10-21 19:01:20.431] 127.0.0.1 POST / BODY=x=1&y=2
+[2025-10-21 19:01:20.431] Map: path='/' -> fullPath='C:\Users\Juan Pablo\Desktop\DS\6to Cuatri 3año DS\Programacion Sobre Redes\Trabajo-Final-PSR\archivos-a-servir\index.html'

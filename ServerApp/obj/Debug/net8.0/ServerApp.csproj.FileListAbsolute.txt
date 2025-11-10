@@ -16,3 +16,4 @@ C:\Users\Juan Pablo\Desktop\DS\6to Cuatri 3año DS\Programacion Sobre Redes\Trab
 C:\Users\Juan Pablo\Desktop\DS\6to Cuatri 3año DS\Programacion Sobre Redes\Trabajo-Final-PSR\ServerApp\obj\Debug\net8.0\ServerApp.pdb
 C:\Users\Juan Pablo\Desktop\DS\6to Cuatri 3año DS\Programacion Sobre Redes\Trabajo-Final-PSR\ServerApp\obj\Debug\net8.0\ServerApp.genruntimeconfig.cache
 C:\Users\Juan Pablo\Desktop\DS\6to Cuatri 3año DS\Programacion Sobre Redes\Trabajo-Final-PSR\ServerApp\obj\Debug\net8.0\ref\ServerApp.dll
+C:\Users\Juan Pablo\Desktop\DS\6to Cuatri 3año DS\Programacion Sobre Redes\Trabajo-Final-PSR\ServerApp\obj\Debug\net8.0\ServerApp.sourcelink.json

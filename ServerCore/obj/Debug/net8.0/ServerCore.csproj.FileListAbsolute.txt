@@ -9,3 +9,4 @@ C:\Users\Juan Pablo\Desktop\DS\6to Cuatri 3año DS\Programacion Sobre Redes\Trab
 C:\Users\Juan Pablo\Desktop\DS\6to Cuatri 3año DS\Programacion Sobre Redes\Trabajo-Final-PSR\ServerCore\obj\Debug\net8.0\refint\ServerCore.dll
 C:\Users\Juan Pablo\Desktop\DS\6to Cuatri 3año DS\Programacion Sobre Redes\Trabajo-Final-PSR\ServerCore\obj\Debug\net8.0\ServerCore.pdb
 C:\Users\Juan Pablo\Desktop\DS\6to Cuatri 3año DS\Programacion Sobre Redes\Trabajo-Final-PSR\ServerCore\obj\Debug\net8.0\ref\ServerCore.dll
+C:\Users\Juan Pablo\Desktop\DS\6to Cuatri 3año DS\Programacion Sobre Redes\Trabajo-Final-PSR\ServerCore\obj\Debug\net8.0\ServerCore.sourcelink.json

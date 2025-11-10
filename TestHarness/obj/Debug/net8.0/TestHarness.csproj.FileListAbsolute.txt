@@ -16,3 +16,4 @@ C:\Users\Juan Pablo\Desktop\DS\6to Cuatri 3año DS\Programacion Sobre Redes\Trab
 C:\Users\Juan Pablo\Desktop\DS\6to Cuatri 3año DS\Programacion Sobre Redes\Trabajo-Final-PSR\TestHarness\obj\Debug\net8.0\TestHarness.pdb
 C:\Users\Juan Pablo\Desktop\DS\6to Cuatri 3año DS\Programacion Sobre Redes\Trabajo-Final-PSR\TestHarness\obj\Debug\net8.0\TestHarness.genruntimeconfig.cache
 C:\Users\Juan Pablo\Desktop\DS\6to Cuatri 3año DS\Programacion Sobre Redes\Trabajo-Final-PSR\TestHarness\obj\Debug\net8.0\ref\TestHarness.dll
+C:\Users\Juan Pablo\Desktop\DS\6to Cuatri 3año DS\Programacion Sobre Redes\Trabajo-Final-PSR\TestHarness\obj\Debug\net8.0\TestHarness.sourcelink.json

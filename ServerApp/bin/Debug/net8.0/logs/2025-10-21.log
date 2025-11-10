@@ -1,0 +1,3 @@
+[2025-10-21 18:57:41.853] 127.0.0.1 GET /
+[2025-10-21 18:57:41.856] Map: path='/' -> fullPath='C:\Users\Juan Pablo\Desktop\DS\6to Cuatri 3año DS\Programacion Sobre Redes\Trabajo-Final-PSR\ServerApp\bin\Debug\net8.0\archivos-a-servir\index.html'
+[2025-10-21 18:57:41.856] File not found: 'C:\Users\Juan Pablo\Desktop\DS\6to Cuatri 3año DS\Programacion Sobre Redes\Trabajo-Final-PSR\ServerApp\bin\Debug\net8.0\archivos-a-servir\index.html'
